@@ -1,2 +1,2 @@
 # coursera-bhakti
-bhakti repository
+git clone
